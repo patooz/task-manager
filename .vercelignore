@@ -13,3 +13,6 @@
 /public/dist
 /public/storage
 /public/build
+/public/.htaccess
+/public/robots.txt
+/public/favicon.ico
