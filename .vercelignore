@@ -11,3 +11,5 @@
 /public/vendor
 /public/assets
 /public/dist
+/public/storage
+/public/build
