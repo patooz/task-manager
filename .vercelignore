@@ -7,3 +7,5 @@
 ./phpintel
 /tests
 /database
+/public/installer
+/public/vendor
